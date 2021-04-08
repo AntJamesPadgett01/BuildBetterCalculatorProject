@@ -1,0 +1,16 @@
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\BuildBetterCalculatorProject.exe
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\BuildBetterCalculatorProject.deps.json
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\BuildBetterCalculatorProject.runtimeconfig.json
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\BuildBetterCalculatorProject.runtimeconfig.dev.json
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\BuildBetterCalculatorProject.dll
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\ref\BuildBetterCalculatorProject.dll
+C:\Users\antho\repos\BuildBetterCalculatorProject\bin\Debug\net5.0\BuildBetterCalculatorProject.pdb
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.csprojAssemblyReference.cache
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.AssemblyInfoInputs.cache
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.AssemblyInfo.cs
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.dll
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\ref\BuildBetterCalculatorProject.dll
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.pdb
+C:\Users\antho\repos\BuildBetterCalculatorProject\obj\Debug\net5.0\BuildBetterCalculatorProject.genruntimeconfig.cache
